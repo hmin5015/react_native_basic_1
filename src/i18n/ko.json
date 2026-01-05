@@ -1,0 +1,23 @@
+{
+  "en": "영어",
+  "ko": "한국어",
+  "weather": "날씨",
+  "cities": "도시",
+  "favorites": "즐겨찾기",
+  "your_area": "내 위치",
+  "live": "실시간",
+  "updated": "업데이트",
+  "add_city": "도시 추가",
+  "edit_city": "도시 수정",
+  "cancel": "취소",
+  "save": "저장",
+  "footer_app_info": "개인 날씨 앱 · Open-Meteo 제공",
+  "footer_bottom_info": "이 앱은 개인 프로젝트로 상업적 목적이 아닙니다.\n날씨 데이터는 Open-Meteo API를 통해 제공됩니다.",
+  "remove_city": "도시 삭제",
+  "remove_confirm": "이 도시를 삭제하시겠습니까?",
+  "remove": "삭제",
+  "edit": "수정",
+  "all_cities": "모든 도시",
+  "today": "현재",
+  "tomorrow": "내일"
+}

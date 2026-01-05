@@ -1,0 +1,23 @@
+{
+  "en": "EN",
+  "ko": "KO",
+  "weather": "WEATHER",
+  "cities": "CITIES",
+  "favorites": "FAVORITES",
+  "your_area": "Your Area",
+  "live": "LIVE",
+  "updated": "UPDATED",
+  "add_city": "ADD CITY",
+  "edit_city": "EDIT CITY",
+  "cancel": "CANCEL",
+  "save": "SAVE",
+  "footer_app_info": "Personal Weather App · Powered by Open-Meteo",
+  "footer_bottom_info": "This app is a personal project and not for commercial purposes.\nWeather data is provided through the Open-Meteo API.",
+  "remove_city": "REMOVE CITY",
+  "remove_confirm": "Do you want to remove this city?",
+  "remove": "REMOVE",
+  "edit": "EDIT",
+  "all_cities": "ALL CITIES",
+  "today": "TODAY",
+  "tomorrow": "TOMORROW"
+}
